@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip App</string>
+    <string name="cost_string_hint">Cost of the Service.</string>
+    <string name="dollar"><b>$</b></string>
+    <string name="amazing">AMAZING (20%)</string>
+    <string name="good">GOOD (18%)</string>
+    <string name="ok">OK (15%)</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="tip_string">Tip Amount: </string>
+    <string name="tip_display_string"></string>
+    <string name="roundoff_String">Round Off?</string>
+    <string name="footer"><b>Made with ❤ by <a href="https://pvcodes.in">pvcodes</a></b></string>
+    <!--    ❤-->
+</resources>
